@@ -1,0 +1,4 @@
+whitelisted-mods:
+  exampleMod: exampleChecksum
+whitelisted-textures:
+  exampleTexture: exampleChecksum

@@ -1,0 +1,9 @@
+name: FWServerAntiCheat
+version: @version@
+main: it.forgottenworld.fwserveranticheat.FWServerAntiCheat
+api-version: '1.13'
+prefix: FWAntiCheat
+load: STARTUP
+authors: [tigierrei]
+description: Server AntiCheat made for ForgottenWorld.it
+website: https://forgottenworld.it
